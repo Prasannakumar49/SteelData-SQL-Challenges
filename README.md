@@ -5,6 +5,9 @@ Steel Data SQL Challenge 1 - Steve's Car Showroom
 Steel Data SQL Challenge 2 - Esports Tournament
 -- The top eSports competitors from across the globe have gathered to battle it out. We have to analyze data and extract insights using SQL to find out all about the tournament.We have given 10 questions that need to be solved in this case study.
 
+Steel Data SQL Challenge 3 - Finance Analysis
+-- You are a Finance Analyst working for 'The Big Bank'You have been tasked with finding out about your customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into your customers.We have to analyze data and extract insights using SQL to find out all about the bank's finance.We have given 10 questions that need to be solved in this case study.
+
 🔷Tool Used : MySQL 
 
 🔷Throughout this project, I used several essential SQL functions including,
